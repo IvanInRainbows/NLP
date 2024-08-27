@@ -6,3 +6,5 @@ A repository for NLP, data science and statistics projects. Some projects come f
 27/07/2024: Initial commit. Uploaded statistics and machine learning notebook.
 
 07/08/2024: Changed name and description of the repository. Added the notes and exercises from Jurafsky's book, capitles 4 (Bayes models) and 5 (Logistic regression and gradient descent), as well as some models that I tuned myself. Added the datasets used in the notebooks. Updated readme.
+
+27/08/2024: Added the notebooks for vector semantics and Part of speech Tagging, as well as the probability matrix needed for the POS tagging.
